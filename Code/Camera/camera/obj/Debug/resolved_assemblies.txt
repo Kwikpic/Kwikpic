@@ -1,0 +1,4 @@
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.dll
+C:\Users\Fatima\Desktop\System.Configuration.dll
+C:\Users\Fatima\Desktop\System.Drawing.dll
+C:\Users\Fatima\Desktop\System.Security.dll

@@ -1,0 +1,13 @@
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.dll
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.pdb
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.dll.mdb
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.camera.apk
+C:\Users\Fatima\Documents\Projects\camera\camera\bin\Debug\camera.camera-Signed.apk
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\camera.dll
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\camera.pdb
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\android\bin\camera.camera.apk
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\res\layout\main.xml
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\res\values\strings.xml
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\res\drawable\icon.png
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\R.cs.flag
+C:\Users\Fatima\Documents\Projects\camera\camera\obj\Debug\uploadflags.txt

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera", "camera\camera.csproj", "{DAA48A03-2D2A-4823-88AB-BDB4479F836D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA48A03-2D2A-4823-88AB-BDB4479F836D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA48A03-2D2A-4823-88AB-BDB4479F836D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA48A03-2D2A-4823-88AB-BDB4479F836D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA48A03-2D2A-4823-88AB-BDB4479F836D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = camera\camera.csproj
+	EndGlobalSection
+EndGlobal

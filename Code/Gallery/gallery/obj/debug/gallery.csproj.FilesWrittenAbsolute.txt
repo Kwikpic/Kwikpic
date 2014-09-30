@@ -1,0 +1,13 @@
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/MonoAndroid,Version=v4.3.AssemblyAttribute.cs
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/bin/Debug/gallery.dll.mdb
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/bin/Debug/gallery.dll
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/bin/Debug/gallery.gallery.apk
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/android/bin/gallery.gallery.apk
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/res/layout/main.xml
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/res/values/strings.xml
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/res/drawable/icon.png
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/R.cs.flag
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/bin/Debug/gallery.gallery-Signed.apk
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/uploadflags.txt
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/gallery.dll
+/Users/Mohamed/Box Sync/Kwikpic/Code/Gallery/gallery/obj/Debug/gallery.dll.mdb

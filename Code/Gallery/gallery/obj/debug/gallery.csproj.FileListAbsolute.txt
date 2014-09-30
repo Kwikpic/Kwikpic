@@ -1,0 +1,13 @@
+C:\Users\Fatima\Documents\Projects\gallery\gallery\bin\Debug\gallery.dll
+C:\Users\Fatima\Documents\Projects\gallery\gallery\bin\Debug\gallery.pdb
+C:\Users\Fatima\Documents\Projects\gallery\gallery\bin\Debug\gallery.dll.mdb
+C:\Users\Fatima\Documents\Projects\gallery\gallery\bin\Debug\gallery.gallery.apk
+C:\Users\Fatima\Documents\Projects\gallery\gallery\bin\Debug\gallery.gallery-Signed.apk
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\gallery.dll
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\gallery.pdb
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\android\bin\gallery.gallery.apk
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\res\layout\main.xml
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\res\values\strings.xml
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\res\drawable\icon.png
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\R.cs.flag
+C:\Users\Fatima\Documents\Projects\gallery\gallery\obj\Debug\uploadflags.txt
